@@ -28,7 +28,7 @@ Deployed on **Streamlit Cloud**
 
 ## Live Demo
 
-🔗 [**Try the App on Streamlit Cloud →**]()
+🔗 [**Try the App on Streamlit Cloud →**](https://stock-market-movement-predictor.streamlit.app/)
 
 <p align="center">
   <img src="demo.gif" alt="Stock Predictor Demo" width="700">
